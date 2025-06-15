@@ -1,7 +1,7 @@
 🚀 CyberPython Toolkit - منصة أدوات الأمن السيبراني بلغة Python
 
 <div align="center">  
-  <img src="https://i.imgur.com/JQ9w8bR.png" alt="CyberPython Banner" width="800">  
+  <img src="https://cdn.arabsstock.com/uploads/images/69560/a-young-saudi-arabian-gulf-thumbnail-69560.webp" alt="CyberPython Banner" width="800">  
 </div>  👨‍💻 مطور المشروع: محمد مختار
 
 
@@ -30,7 +30,7 @@ print("مرحباً بكم في عالم الأمن السيبراني بلغة 
 🎯 مقدمة المشروع
 
 <div align="center">  
-  <img src="https://i.imgur.com/7QZ4wXg.gif" alt="Hacking Animation" width="500">  
+  <img src="https://www.albayan.ae/assets/archives/images/2017/12/23/3139326.jpg" alt="Hacking Animation" width="500">  
 </div>  هذا المشروع هو أكبر تجميع لمكتبات Python في مجال الأمن السيبراني، يحتوي على:
 
 1000+ مكتبة منظمة في 10 فئات رئيسية
@@ -53,38 +53,13 @@ print("مرحباً بكم في عالم الأمن السيبراني بلغة 
 🤖 ذكي	دعم الذكاء الاصطناعي	
 
 <div align="center">  
-  <img src="https://i.imgur.com/JQ9w8bR.png" alt="Project Structure" width="400">  
+  <img src="https://d2fryjlmubyuuh.cloudfront.net/wp-content/uploads/2022/08/25134558/5_Software_scty_initiative.png" alt="Project Structure" width="400">  
 </div> 
 
 🔧 كيفية الاستخدام
 
 1. التثبيت
-
-git clone https://github.com/MohamedMokhtar/CyberPython.git  
-cd CyberPython  
-pip install -r requirements.txt
-
-2. تشغيل الأداة
-
-python cyberpython.py
-
-<div align="center">  
-  <img src="https://i.imgur.com/7QZ4wXg.gif" alt="Tool Demo" width="600">  
-</div>
-
-📊 المكتبات المتوفرة
-
-🔍 جمع المعلومات (OSINT)
-
-import shodan  
-import maltego  
-from theHarvester import discover
-
-🛠️ اختبار الاختراق
-
-from metasploit import msfrpc  
-import impacket  
-from scapy.all import *
+2. استخدم رابط الموقع انسخ رابط الموقع وقم بنسخه في اي نظام سوف تنزله وقم بتشغيل الامر التالي للتنزيل
 
 <div align="center">  
   <img src="https://i.imgur.com/VqT7YjJ.png" alt="Pentesting Tools" width="500">  
@@ -92,20 +67,16 @@ from scapy.all import *
 
 🎥 واجهات الأدوات
 
-واجهة الأداة الرئيسية
-
-def main_menu():  
-    print("""  
+واجهة الأداة الرئيسية 
     █▀▀ █▀█ █▀▀ █▀▄ █ ▀█▀ █▀  
     █▄▄ █▄█ █▄▄ █▄▀ █ ░█░ ▄█  
       
     1. مسح الشبكات  
     2. تحليل الملفات  
     3. اختبار الويب  
-    """)
 
 <div align="center">  
-  <img src="https://i.imgur.com/5X9wL2r.png" alt="Tool Interface" width="600">  
+  <img src="https://www.albayan.ae/assets/archives/images/2017/12/23/3139326.jpg" alt="Tool Interface" width="600">  
 </div> 
 
 📜 الرخصة
@@ -117,7 +88,7 @@ Copyright 2023 محمد مختار
 الإذن بحرية استخدام هذا المشروع لأي غرض شرعي.
 
 <div align="center">  
-  <img src="https://i.imgur.com/9QZ4wXg.gif" alt="Contact Us" width="200">  
+  <img src="https://d2fryjlmubyuuh.cloudfront.net/wp-content/uploads/2022/08/25134558/5_Software_scty_initiative.png" alt="Contact Us" width="200">  
   <br>  
   <h3>✨ Happy Ethical Hacking! ✨</h3>  
 </div>  
@@ -132,7 +103,7 @@ Copyright 2023 محمد مختار
 
 
 <div align="right">  
-  <img src="https://i.imgur.com/JQ9w8bR.png" alt="Signature" width="200">  
+  <img src="https://d2fryjlmubyuuh.cloudfront.net/wp-content/uploads/2022/08/25134558/5_Software_scty_initiative.png" alt="Signature" width="200">  
   <br>  
   <strong>محمد مختار</strong>  
   <br>  
